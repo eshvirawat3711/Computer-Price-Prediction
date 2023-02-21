@@ -23,3 +23,16 @@ The flow of the case study is as below:
 * Deploying the best model in production
 
 The data has one file "ComputerPricesData.csv". This file contains 6259 computers data.
+
+# Data Description
+The business meaning of each column in the data is as below:
+
+* **CementComponent:** How much cement is mixed
+* **BlastFurnaceSlag:** How much Blast Furnace Slag is mixed
+* **FlyAshComponent:** How much FlyAsh is mixed
+* **WaterComponent:** How much water is mixed
+* **SuperplasticizerComponent:** How much Super plasticizer is mixed
+* **CoarseAggregateComponent:** How much Coarse Aggregate is mixed
+* **FineAggregateComponent:** How much Coarse Aggregate is mixed
+* **AgeInDays:** How many days it was left dry
+* **Strength:** What was the final strength of concrete

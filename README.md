@@ -24,4 +24,3 @@ The flow of the case study is as below:
 
 The data has one file "ComputerPricesData.csv". This file contains 6259 computers data.
 
-
